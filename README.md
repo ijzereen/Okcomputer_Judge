@@ -1,4 +1,4 @@
-# 한국교원대학교  OK Computer BootCamp
+# 한국교원대학교  OK Computer BootCamp (ver 2.0)
 
 ## 개발자
 
